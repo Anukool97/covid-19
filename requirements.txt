@@ -1,3 +1,9 @@
+bokeh
+mxnet
+autogluon
+pymc3
+altair
+arviz
 lightgbm
 pandas
 openpyxl
